@@ -16,7 +16,7 @@ app:
     # max cpu, defaults to 1 cpu limit, half of that for min, min >= 1
     # q: what's the overall limit?
     # q: do we support fractions?
-    cpu: 1
+    cpu: 5
     # memory limit is based on cpu value: 1:3 memory ratio, e.g. 1 cpu == 3 gb
     # ephemeral disk limit will be set to 1GB  
   # List of environment variables that set for the application
@@ -44,7 +44,7 @@ app:
   #    logGroup: myLogGroup
   #    region: us-east-1
 
-  version: "a00e8a13-32f9-4d7e-afb6-55e1d25d5709"
+  version: "72efa111-e692-48de-aba9-9e75729c9ff8"
 # probes
 # dynamic scaling
 # scaling to 0
