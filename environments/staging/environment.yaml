@@ -2,7 +2,7 @@ version: 1.0
 app:
   # build id to deploy
   #abc
-  # version: 1.0-SNAPSHOT-20230716015630 
+  # version: 1.0-SNAPSHOT-20230716015630
   # number of instances
   endpoints: public
   instances:
